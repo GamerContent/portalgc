@@ -1,4 +1,4 @@
-# portalgc
+# PortalGC
 Repositório destinado ao PortalGC
 
 # Objetivos
